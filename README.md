@@ -24,11 +24,6 @@ Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.co
 * JavaFX-sdk-17.0.1 or higher | [Download](https://gluonhq.com/products/javafx/)
 * Git | [Download](https://git-scm.com/downloads)
 
-
-## Collaborators
-
-* [Jay Saraf]()
-
 ## Game Snapshots
 
 ## Unified Modeling Language(UML) Diagrams
@@ -40,3 +35,6 @@ Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.co
 * Class Diagram
   ![image](https://github.com/abhit-rana/Will-Hero/assets/88608893/f825e838-f12a-4b9f-8a70-c08fa9d8563c)
 
+## Collaborators
+
+* [Jay Saraf]()
