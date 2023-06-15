@@ -25,3 +25,18 @@ Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.co
 * Git | [Download](https://git-scm.com/downloads)
 
 
+## Collaborators
+
+* [Jay Saraf]()
+
+## Game Snapshots
+
+## Unified Modeling Language(UML) Diagrams
+
+* Use Case
+
+  ![image](https://github.com/abhit-rana/Will-Hero/assets/88608893/3ff688f2-6168-44b4-b88c-8634e590b0eb)
+
+* Class Diagram
+  ![image](https://github.com/abhit-rana/Will-Hero/assets/88608893/f825e838-f12a-4b9f-8a70-c08fa9d8563c)
+
