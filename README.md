@@ -11,7 +11,7 @@ Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.co
 ## Game Instructions
 
 * The game aims to Reach the Endpoint.
-* On the destination's path, obstacles like TNT(explosive) and holes between platforms would occur.
+* On the destination's path, obstacles like TNT(explosive) and holes between platforms would be present.
 * The player must also save himself from enemies by killing or dodging them. Before reaching the endpoint, there would be one big enemy which needs to be defeated.
 * Enemy could be killed either through a weapon[knife and Missile] or by making them fall in holes. The weapon is obtained through the Treasure boxes available in the path.
 * The Treasure box would randomly contain the Coins or Weapons. Coins would also be available in the space, which the player can earn by catching them.
