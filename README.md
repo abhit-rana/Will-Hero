@@ -11,7 +11,7 @@ Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.co
 ## Game Instructions
 
 * The game aims to Reach the Endpoint.
-* Player moves forward by Lef-Click.
+* Player moves forward by Left-Click.
   
 * On the destination's path, obstacles like
   TNT(explosive)
