@@ -37,4 +37,4 @@ Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.co
 
 ## Collaborators
 
-* [Jay Saraf]()
+* [Jay Saraf](https://github.com/jay20438)
