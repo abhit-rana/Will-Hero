@@ -4,38 +4,43 @@ Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.co
 
 ## Implementation
 
-* The UI of the game is designed through JavaFX
-* Animations in the game are made through the Animation Timer, Translation, and Timeline classes within JavaFX Framework
-* The option to save and load the game is made through a Serializable interface, and Serialization/deserialization concepts
+* The UI of the Game is designed through JavaFX
+* Animations in the Game are made through the Animation Timer, Translation, and Timeline classes within JavaFX Framework
+* The option to save and load the Game is made through a Serializable interface, and Serialization/deserialization concepts
 
 ## Game Instructions
 
-* The game aims to Reach the Endpoint.
+* The User first Enters their Name and then starts the Game.
+  
+
+* The Game aims to Reach the Endpoint by defeating the Final Enemy at the destination.
 * Player moves forward by Left-Click.
 
 * On the destination's path, obstacles like
   TNT(explosive)
 
-  and holes between platforms would be present.
+  And holes between platforms would be present.
 
   
 * The player must also save himself from enemies by killing
 
-  or dodging them.
+  Or dodging them.
   
-* Before reaching the endpoint, there would be one big enemy which needs to be defeated.
+* Before reaching the endpoint, one big enemy must be defeated to complete the Game.
   
 * Enemy could be killed either through a weapon[knife and Missile]
 
-  or by making them fall into holes.
+  Or by making them fall into holes.
 
 * The weapon is obtained through the Treasure boxes available in the path.
 
 * The Treasure box would randomly contain the Coins
 
-  or Weapons.
+  Or Weapons.
 
 * Coins would also be available in the space, which the player can earn by catching them.
+
+* The User could also load their previous saved games.
 
 
 ## Dependencies
