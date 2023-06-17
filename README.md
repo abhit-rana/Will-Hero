@@ -4,7 +4,7 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 ## Implementation
 
-* The UI of the Game is designed through JavaFX
+* The Backend and UI of the Game are designed through Java and JavaFX + Scene Builder, respectively
 * Animations in the Game are made through the Animation Timer, Translation, and Timeline classes within JavaFX Framework
 * The option to save and load the Game is made through a Serializable interface, and Serialization/deserialization concepts
 
@@ -12,7 +12,6 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 * The User first Enters their Name and then starts the Game.
   
-
 * The Game aims to Reach the Endpoint by defeating the Final Enemy at the destination.
 * Player moves forward by Left-Click.
 
@@ -22,16 +21,16 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
   And holes between platforms would be present.
 
   
-* The player must also save himself from enemies by killing
+* The player must also save himself from enemies by
+  dodging
 
-  Or dodging them.
-  
-* Before reaching the endpoint, one big enemy must be defeated to complete the Game.
-  
-* Enemy could be killed either through a weapon[knife and Missile]
+  Or killing them through a weapon
+  Knife
+
+  and Missile
 
   Or by making them fall into holes.
-
+  
 * The weapon is obtained through the Treasure boxes available in the path.
 
 * The Treasure box would randomly contain the Coins
@@ -39,6 +38,8 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
   Or Weapons.
 
 * Coins would also be available in the space, which the player can earn by catching them.
+
+* one big enemy at the endpoint must be defeated to complete the Game
 
 * The User could also load their previous saved games.
 
