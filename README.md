@@ -1,6 +1,6 @@
 # Will-Hero
 
-Clone of a Platformer Game: Will Hero([Official Gameplay](https://www.youtube.com/watch?v=VuyBQOXcX00&t=69s)).
+Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.youtube.com/watch?v=VuyBQOXcX00&t=69s)).
 
 ## Implementation
 
