@@ -79,8 +79,8 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 * one big enemy at the endpoint must be defeated to complete the Game
 
-  ![Screen Recording (18-06-2023 13-42-14)](https://github.com/abhit-rana/Will-Hero/assets/88608893/2bfd7a56-ca26-4e8a-b730-cfb1b23245ed)
-  
+  ![ReachingEndPoint](https://github.com/abhit-rana/Will-Hero/assets/88608893/2d85c7ac-09f2-43a3-8150-064f98ae50da)
+
 * The User could also Pause,
 
   ![Screen Recording (18-06-2023 13-39-25)](https://github.com/abhit-rana/Will-Hero/assets/88608893/75d0d8db-dc62-4d47-b66d-3a1d88554c85)
