@@ -34,8 +34,11 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
   ![Screen Recording (18-06-2023 12-29-24)](https://github.com/abhit-rana/Will-Hero/assets/88608893/60936f8f-0f9d-4913-bbaa-ab3a639b2871)
 
-* The player must also save himself from enemies by
-  dodging
+* The player must also save himself from enemies, not being crushed
+
+  ![Screen Recording (18-06-2023 13-39-06)](https://github.com/abhit-rana/Will-Hero/assets/88608893/6a74adb8-3edb-4fb9-933c-dad9579b865b)
+
+  by dodging
 
   ![Screen Recording (18-06-2023 12-37-59)](https://github.com/abhit-rana/Will-Hero/assets/88608893/f34936bb-38de-4d6b-b23c-4f8c00e064fd)
 
@@ -72,7 +75,7 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 * Coins would also be available in the space, which the player can earn by catching them.
 
-  ![Screen Recording (18-06-2023 13-41-45)](https://github.com/abhit-rana/Will-Hero/assets/88608893/4f07f10b-17c8-44ac-bca7-ba50f1f90b86)
+  ![Screen Recording (18-06-2023 13-41-45)](https://github.com/abhit-rana/Will-Hero/assets/88608893/f7012e71-f006-4124-b9a7-ba9b47ce41b7)
 
 * one big enemy at the endpoint must be defeated to complete the Game
 
