@@ -18,7 +18,7 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 * The User first Enters their Name and then starts the Game.
   
-  ![Screen Recording (18-06-2023 16-47-50)](https://github.com/abhit-rana/Will-Hero/assets/88608893/e69676b5-7a55-4784-acb4-4c6ba9e83dad)
+  ![StartTheGame](https://github.com/abhit-rana/Will-Hero/assets/88608893/1b11abda-dc7c-481f-abe0-3bb557ed0169)
 
 * The Game aims to Reach the Endpoint by defeating the Final Enemy at the destination.
 * Player moves forward by Left-Click.
