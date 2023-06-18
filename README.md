@@ -75,7 +75,7 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 * Coins would also be available in the space, which the player can earn by catching them.
 
-  ![Screen Recording (18-06-2023 13-41-45)](https://github.com/abhit-rana/Will-Hero/assets/88608893/f7012e71-f006-4124-b9a7-ba9b47ce41b7)
+  ![Screen Recording (18-06-2023 15-03-24)](https://github.com/abhit-rana/Will-Hero/assets/88608893/914eca11-39fa-4a6b-b27d-dfc1035d8f7c)
 
 * one big enemy at the endpoint must be defeated to complete the Game
 
