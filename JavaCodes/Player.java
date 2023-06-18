@@ -1,4 +1,4 @@
-package com.example.willherojavafxproject;
+package com.example.willhero;
 
 import javafx.animation.Interpolator;
 import javafx.animation.RotateTransition;
@@ -126,7 +126,7 @@ public class Player implements Serializable {
                 }
             }
         };
-        timer.scheduleAtFixedRate(timerTask, 280, 110);
+        timer.scheduleAtFixedRate(timerTask, 280, 120);
     }
 
     public boolean  isLiving(){

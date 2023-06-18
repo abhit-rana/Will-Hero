@@ -1,4 +1,4 @@
-package com.example.willherojavafxproject;
+package com.example.willhero;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -29,7 +29,7 @@ public class FxmlLoader implements Serializable {
 
     public static Scene getScene(String filename, Object obj, String className){
         try{
-            URL fileUrl = HelloApplication.class.getResource(filename+".fxml");
+            URL fileUrl = HelloApplication.class.getResource("FxmlCodes/" + filename+".fxml");
             if(fileUrl == null){
                 throw new FileNotFoundException("fxml file can not be found");
             }

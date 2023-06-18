@@ -1,4 +1,4 @@
-package com.example.willherojavafxproject;
+package com.example.willhero;
 
 import javafx.animation.TranslateTransition;
 import javafx.event.ActionEvent;

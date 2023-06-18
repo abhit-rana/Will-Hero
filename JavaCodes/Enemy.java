@@ -1,4 +1,4 @@
-package com.example.willherojavafxproject;
+package com.example.willhero;
 
 import javafx.animation.FadeTransition;
 import javafx.scene.image.ImageView;
@@ -75,7 +75,7 @@ public abstract class Enemy implements Serializable {
                 }
             }
         };
-        timer1.scheduleAtFixedRate(timerTask1, 300, 150);
+        timer1.scheduleAtFixedRate(timerTask1, 300, 100);
     }
 
 

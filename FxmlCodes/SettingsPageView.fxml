@@ -8,32 +8,32 @@
    <children>
       <ImageView fitHeight="611.0" fitWidth="1098.0" layoutX="-1.0">
          <image>
-            <Image url="@WillHeroImages/backGround.png" />
+            <Image url="@../WillHeroImages/backGround.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="603.0" fitWidth="739.0" layoutX="179.0" layoutY="37.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@WillHeroImages/SettingsMenuPic.png" />
+            <Image url="@../WillHeroImages/SettingsMenuPic.png" />
          </image>
       </ImageView>
       <ImageView fx:id="resumeButton" fitHeight="93.0" fitWidth="118.0" layoutX="499.0" layoutY="223.0" onMouseClicked="#resumeGame" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@WillHeroImages/PlayButton-removebg-preview.png" />
+            <Image url="@../WillHeroImages/PlayButton-removebg-preview.png" />
          </image>
       </ImageView>
       <ImageView fx:id="restartButton" fitHeight="95.0" fitWidth="98.0" layoutX="669.0" layoutY="306.0" onMouseClicked="#restartGame" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@WillHeroImages/RestartButtonpic.png" />
+            <Image url="@../WillHeroImages/RestartButtonpic.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="93.0" fitWidth="90.0" layoutX="344.0" layoutY="307.0" onMouseClicked="#goToHomePage" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@WillHeroImages/HomeButtonpic.png" />
+            <Image url="@../WillHeroImages/HomeButtonpic.png" />
          </image>
       </ImageView>
       <ImageView fx:id="save" fitHeight="85.0" fitWidth="103.0" layoutX="507.0" layoutY="421.0" onMouseClicked="#saveGame" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@WillHeroImages/save.jpg" />
+            <Image url="@../WillHeroImages/save.jpg" />
          </image>
       </ImageView>
    </children>

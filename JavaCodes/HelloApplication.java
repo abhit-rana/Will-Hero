@@ -1,4 +1,4 @@
-package com.example.willherojavafxproject;
+package com.example.willhero;
 
 
 import javafx.application.Application;
@@ -15,10 +15,10 @@ public class HelloApplication extends Application implements Serializable {
 
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("userLogin.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("FxmlCodes/userLogin.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 1077, 522);
         //1017, 532
-        Image icon = new Image(HelloApplication.class.getResourceAsStream("WillHeroImages/"+ "WillHeroIcon.jpg"));
+        Image icon = new Image(HelloApplication.class.getResourceAsStream("WillHeroImages/WillHeroIcon.jpg"));
         stage.getIcons().add(icon);
         staged = stage;
         stage.setTitle("WILL HERO");
@@ -72,7 +72,7 @@ public class HelloApplication extends Application implements Serializable {
 //        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("blank.fxml"));
 //        Scene scene = new Scene(fxmlLoader.load(), 1518, 736);
 //        //1017, 532
-//        Image icon = new Image(HelloApplication.class.getResourceAsStream("WillHeroImages/"+ "WillHeroIcon.jpg"));
+//        Image icon = new Image(HelloApplication.class.getResourceAAbhsStream("WillHeroImages/"+ "WillHeroIcon.jpg"));
 //        stage.getIcons().add(icon);
 //        stage.setTitle("WILL HERO");
 //        staged = stage;

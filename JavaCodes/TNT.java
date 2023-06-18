@@ -1,4 +1,4 @@
-package com.example.willherojavafxproject;
+package com.example.willhero;
 
 import javafx.animation.Animation;
 import javafx.animation.FadeTransition;

@@ -1,4 +1,4 @@
-package com.example.willherojavafxproject;
+package com.example.willhero;
 import java.io.Serializable;
 import java.net.URL;
 import java.util.*;
@@ -315,7 +315,7 @@ public class Position implements Initializable, Serializable, Homepage.Movement 
           System.out.println("t6:"+tf6.getText()+ "<-");
             try {
                 if (imageView.getBoundsInParent().getMaxY() > 520) {
-                    if (obj.getClass().getName().equals("com.example.willherojavafxproject.Player")) {
+                    if (obj.getClass().getName().equals("com.example.willhero.Player")) {
                         if (player.getLayoutY() > 736) {
                             playerObj.changeStatusOfLiving(false);
                             gameOver = true;
@@ -324,7 +324,7 @@ public class Position implements Initializable, Serializable, Homepage.Movement 
                             playerFalls = true;
                         }
                     }else{
-                        if(imageView.getClass().getName().equals("com.example.willherojavafxproject.Boss")){
+                        if(imageView.getClass().getName().equals("com.example.willhero.Boss")){
                             boss.setBossFalls(true);
                             gameOver = true;
                             boss.changeStatusOfLiving(false);
@@ -349,7 +349,7 @@ public class Position implements Initializable, Serializable, Homepage.Movement 
             }
             if (flag || flag4Up) {
                 flag4Up = true;
-                if (obj.getClass().getName().equals("com.example.willherojavafxproject.Player")) {
+                if (obj.getClass().getName().equals("com.example.willhero.Player")) {
                     Player p = (Player) obj;
                     if (living) {
                         p.setGainedUpHeight(p.getGainedUpHeight() + sub);
@@ -358,7 +358,7 @@ public class Position implements Initializable, Serializable, Homepage.Movement 
                         p.terminateJump();
                         gameOver();
                     }
-                } else if (obj.getClass().getName().equals("com.example.willherojavafxproject.RedOrc") || obj.getClass().getName().equals("com.example.willherojavafxproject.GreenOrc") || obj.getClass().getName().equals("com.example.willherojavafxproject.Boss")) {
+                } else if (obj.getClass().getName().equals("com.example.willhero.RedOrc") || obj.getClass().getName().equals("com.example.willhero.GreenOrc") || obj.getClass().getName().equals("com.example.willhero.Boss")) {
                     Enemy e = (Enemy) obj;
                     if (living) {
                         e.setGainedUpHeight(e.getGainedUpHeight() + sub);
