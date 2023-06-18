@@ -24,7 +24,8 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 * The player must also save himself from enemies by
   dodging
 
-  Or killing them through a weapon
+  Or killing them through a weapon:
+  
   Knife
 
   and Missile
