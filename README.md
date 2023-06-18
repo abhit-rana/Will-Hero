@@ -8,6 +8,12 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 * Animations in the Game are made through the Animation Timer, Translation, and Timeline classes within JavaFX Framework
 * The option to save and load the Game is made through a Serializable interface, and Serialization/deserialization concepts
 
+## Dependencies
+
+* JDK 16 or higher | [Download](https://www.oracle.com/java/technologies/downloads/)
+* JavaFX-sdk-17.0.1 or higher | [Download](https://gluonhq.com/products/javafx/)
+* Git | [Download](https://git-scm.com/downloads)
+
 ## Game Instructions
 
 * The User first Enters their Name and then starts the Game.
@@ -44,12 +50,6 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 * The User could also load their previous saved games.
 
-
-## Dependencies
-
-* JDK 16 or higher | [Download](https://www.oracle.com/java/technologies/downloads/)
-* JavaFX-sdk-17.0.1 or higher | [Download](https://gluonhq.com/products/javafx/)
-* Git | [Download](https://git-scm.com/downloads)
 
 
 ## Unified Modeling Language(UML) Diagrams
