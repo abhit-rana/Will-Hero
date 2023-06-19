@@ -4,7 +4,7 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 ## Game Play
 
-https://github.com/abhit-rana/Will-Hero/assets/88608893/8d6b837b-77ce-4e4a-a95c-5061a1ffff37
+https://github.com/abhit-rana/Will-Hero/assets/88608893/d0be2900-a8c2-479d-83dd-0920177ca8c2
 
 ## Implementation
 
