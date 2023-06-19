@@ -23,7 +23,7 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 * The Game aims to Reach the Endpoint by defeating the Final Enemy at the destination.
 * Player moves forward by Left-Click.
 
-  ![Screen Recording (18-06-2023 12-32-44)](https://github.com/abhit-rana/Will-Hero/assets/88608893/cc6ecfc7-a0c6-4763-9149-99a400155315)
+  ![LeftClick](https://github.com/abhit-rana/Will-Hero/assets/88608893/0c4136be-624d-42cc-8a6f-40214ec06503)
 
 * On the destination's path, obstacles like
   TNT(explosive)
