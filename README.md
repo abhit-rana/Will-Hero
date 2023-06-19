@@ -4,7 +4,7 @@ Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.you
 
 ## Demo
 
-https://github.com/abhit-rana/Will-Hero/assets/88608893/d0be2900-a8c2-479d-83dd-0920177ca8c2
+https://github.com/abhit-rana/Will-Hero/assets/88608893/55762b2d-5941-4088-aad1-44083822cecb
 
 ## Implementation
 
@@ -21,7 +21,7 @@ https://github.com/abhit-rana/Will-Hero/assets/88608893/d0be2900-a8c2-479d-83dd-
 
 * The User first Enters their Name and then starts the Game.
   
-  ![StartTheGame](https://github.com/abhit-rana/Will-Hero/assets/88608893/1b11abda-dc7c-481f-abe0-3bb557ed0169)
+  ![StartTheGame](https://github.com/abhit-rana/Will-Hero/assets/88608893/8727f63e-1cef-4db1-97dd-d495b807f0c9)
 
 * The Game aims to Reach the Endpoint by defeating the Final Enemy at the destination.
 * Player moves forward by Left-Click.
