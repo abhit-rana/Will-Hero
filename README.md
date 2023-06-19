@@ -2,7 +2,7 @@
 
 Clone of a famous Platformer Game: Will Hero([Official Gameplay](https://www.youtube.com/watch?v=VuyBQOXcX00&t=69s)).
 
-## Game Play
+## Demo
 
 https://github.com/abhit-rana/Will-Hero/assets/88608893/d0be2900-a8c2-479d-83dd-0920177ca8c2
 
