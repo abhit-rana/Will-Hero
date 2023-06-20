@@ -21,7 +21,7 @@ https://github.com/abhit-rana/Will-Hero/assets/88608893/59bb5494-7d17-4a69-8d30-
 
 * The User first Enters their Name and then starts the Game.
   
-  ![StartTheGame](https://github.com/abhit-rana/Will-Hero/assets/88608893/8727f63e-1cef-4db1-97dd-d495b807f0c9)
+  ![StartTheGame](https://github.com/abhit-rana/Will-Hero/assets/88608893/168f35b2-1991-4dc4-861f-2de0bdf288fc)
 
 * The Game aims to Reach the Endpoint by defeating the Final Enemy at the destination.
 * Player moves forward by Left-Click.
